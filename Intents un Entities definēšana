@@ -1,0 +1,71 @@
+Intents un Entities definēšana
+
+1. Uzraksti man motivācijas vēstuli  latviešu valodā fullstack darba sludinājumam.
+  Entītijas:
+     valoda
+     dokumenta veids
+     vēstules veids
+     Pozīcija
+     Darba sludinājuma veids
+
+2. Kapēc kods neiet?!?!
+  Entītijas:
+    programmēšanas valoda
+    Errors
+    koda uzdevums
+
+3. Kā izvārīt olu?
+  Entītijas:
+    gatavošana
+    ēdiens
+    gatavošanas veids(vārīšana, cepšana utml)
+
+4. Kāpēc mans bmw spēkrats neiet?
+  Entītijas:
+    transportlīdzekļa veids
+    marka
+    modelis
+    izdošanas gads
+    problemas veids
+    kļūmes zīme, krāsa
+
+5. Ko uzdāvināt mammai ziemassvētkos?
+  Entītijas:
+    saņēmējs 
+    svētki
+    darījuma veids
+    budžets
+
+6. kāpēc man sāp rokas pirksts?
+  Entītijas:
+    Ķermeņa daļa
+    Sāpes veids
+    Cēlonis
+
+7. Kā uzrakstīt prasību pieteikumu tiesai?
+  Entītijas:
+    iesniegums
+    saņēmējs
+    mērķis
+
+8. Uzraksti man dzeju raiņa stilā.
+  Entītijas:
+    daiļraksta veids
+    stils
+    dzejnieki
+
+9. Kapēc man knapi velk stalker 2 spēli?
+  Entītijas:
+    spēle
+    operētājsistēma
+    datora tehniskais apraksts
+    spēles komentāri
+
+10. kā printēt naudu?
+  Entītijas:
+    printeris
+    valsts
+    valsts likumi
+    
+    
+    
